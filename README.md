@@ -1,24 +1,74 @@
-Food Waste Reduction – Admin App 🛠️♻️
-A management tool for overseeing food donations and ensuring efficient distribution.
+# ♻️ Food Waste Reduction – Admin App
 
-🚀 Overview
-The Admin App allows administrators to verify donors, track food donations, and manage NGOs efficiently. Admins can approve/reject food listings, monitor donation status, and generate reports to ensure seamless food distribution.
+> **Manage Donations. Reduce Waste. Make an Impact.**  
+> A management application designed to help administrators verify donors, track food donations, and ensure efficient distribution to NGOs.
 
-📱 Features
-✅ Approve/Reject Food Listings – Ensure only valid donations are listed.
-📊 Dashboard Analytics – View donation trends and impact reports.
-📍 Google Maps Integration – Track donation locations in real-time.
-🔔 Notification System – Get alerts for new donations and updates.
-🔐 Secure Admin Authentication – Firebase-based access control.
-🛠 Technologies Used
-Android Studio (Kotlin) – App development.
-Firebase Firestore – Real-time data storage and tracking.
-Google Maps API – Location tracking for donations.
-Firebase Authentication – Secure admin access.
+[![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)]()
+[![Language](https://img.shields.io/badge/Language-Kotlin-purple?style=for-the-badge&logo=kotlin)]()
+[![Backend](https://img.shields.io/badge/Backend-Firebase-orange?style=for-the-badge&logo=firebase)]()
 
-👥 Contributing
-Contributions are welcome! Feel free to submit issues, suggest features, or fork the repo.
+---
 
-📜 License
-This project is licensed under the MIT License.
+## 📱 Overview
 
+The **Food Waste Reduction – Admin App** enables administrators to efficiently manage food donation activities.  
+It provides tools to verify listings, track donations, monitor impact, and coordinate with NGOs in real time.
+
+This project demonstrates:
+- Firebase integration in Android apps
+- Real-time data monitoring
+- Admin workflow management
+- Google Maps API integration
+- Notification systems
+
+---
+
+## ✨ Features
+
+### ✅ Approve or Reject Food Listings
+- Verify donation requests
+- Maintain authenticity and quality control
+
+### 📊 Dashboard Analytics
+- Monitor donation trends
+- View reports and impact metrics
+
+### 📍 Google Maps Integration
+- Track donation locations
+- Real-time mapping of distribution points
+
+### 🔔 Notification System
+- Alerts for new donations and status updates
+- Real-time admin notifications
+
+### 🔐 Secure Authentication
+- Firebase-based admin login
+- Restricted access for authorized users
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Kotlin  
+- **Platform:** Android  
+- **IDE:** Android Studio  
+- **Backend:** Firebase Firestore  
+- **Authentication:** Firebase Authentication  
+- **Maps:** Google Maps API  
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Android Studio installed  
+- Firebase account  
+- Google Maps API key  
+
+---
+
+### Installation Steps
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/food-waste-admin-app.git
